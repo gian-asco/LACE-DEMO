@@ -4,14 +4,14 @@ va_out_dir:
   - Small_dataset
   - filtered_var
   root: ..
-va_depth_minimum: 8
-va_missing_values_max: 0.3
+va_depth_minimum: 3
+va_missing_values_max: 0.35
 va_minumum_median_total: 8
-va_minumum_median_mutation: 5
+va_minumum_median_mutation: 6
 va_verified_genes:
 - ARPC2
-- CCT8
-- PRAME
+- SLC3A2
+- HNRNPC
 va_list_genes:
 - DDX11L1
 - WASH7P

@@ -11,8 +11,8 @@ thr_out_dir:
   - filtered_vcf
   root: ..
 thr_alleles_ratio: 2
-thr_maf: 0.01
-thr_freq: 0.05
+thr_maf: 0.05
+thr_freq: 0.02
 thr_accepted_var:
 - stopgain
 - stoploss
